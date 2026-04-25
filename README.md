@@ -7,4 +7,4 @@ Ejercicio hecho en la tutoría de trabajo colaborativo
 - Diego
 - Israel
 - Tatiana
--Milagros
+-Milagros agregando commit
